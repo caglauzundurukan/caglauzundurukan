@@ -7,19 +7,14 @@
 
 ## 🌐 Bana Ulaşın
 
-[![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:BURAYAMAILADRESINGELECEK)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/uzundurukancagla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/%C3%A7a%C4%9Flauzundurukan/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yuricagla)
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=Medium&logoColor=white&style=for-the-badge)](https://medium.com/@caglauzundurukan)
 
-<!-- Burayı bilerek yorum yaptım ki istersen eklemezsin. -->
 
-<!-- ## 💰 Bana Bağış Yapın
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/onurravli) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/onurravli) -->
 
-<!-- Burayı da kendiminki gibi bıraktım, kafana göre düzenle.-->
 
 ## 💻 Kullandığım ve Halen Öğrendiğim Teknolojiler
 
