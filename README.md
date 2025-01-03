@@ -5,7 +5,7 @@ I'm Cagla, a 24-year-old **Computer Engineer** with a passion for **SAP ABAP Dev
 
 🌟 **What am I up to?**  
 - 💻 Currently diving deep into **Software Testing** to sharpen my skills and grow in this field.  
-- 🛠️ My tech stack includes **JavaScript**, **Nodejs**, **SAP**, **ABAP**, and **Git**.  
+- 🛠️ My tech stack includes **JavaScript**, **Nodejs**, **SAP ABAP**, and **Git**.  
 - 🌱 Expanding my knowledge with **Selenium** for automation testing.  
 
 🌎 **Why am I here?**  
