@@ -1,7 +1,7 @@
 # 🌟 Hello, World! I'm Cagla 👋  
 
 🎓 **Who am I?**  
-I'm Cagla, a 24-year-old **Computer Engineer** with a passion for **SAP ABAP Development** and **QA Software Testing**.  
+I'm Cagla, a 24-year-old **Computer Engineer** 
 
 🌟 **What am I up to?**  
 - 💻 Currently diving deep into **Software Testing** to sharpen my skills and grow in this field.  
